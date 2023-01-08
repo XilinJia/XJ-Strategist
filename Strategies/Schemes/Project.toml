@@ -1,0 +1,8 @@
+name = "Schemes"
+uuid = "aed34670-4acc-4efb-971d-052310bc4e5b"
+authors = ["djia "]
+version = "0.1.0"
+
+[deps]
+StratSysM = "ef2d281a-a22a-4878-b9a0-f36320bbf55e"
+TechnicalsM = "278d8c4f-ac3e-4b12-b90e-857e455d6677"

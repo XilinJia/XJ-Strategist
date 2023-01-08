@@ -1,0 +1,11 @@
+name = "StratPortM"
+uuid = "8ba8e680-9502-48db-9e47-b4be910f8666"
+authors = ["djia "]
+version = "0.1.0"
+
+[deps]
+AtomsM = "2cd088a0-a7c9-4af1-9935-5c2b0730fd7b"
+ChiefOffice = "331c4930-ddf4-4a97-b0fe-47dc9c64182b"
+Contracts_CFG = "db0c82c3-ad6d-4ebb-8370-55cc098a9b84"
+StratSysM = "ef2d281a-a22a-4878-b9a0-f36320bbf55e"
+TechnicalsM = "278d8c4f-ac3e-4b12-b90e-857e455d6677"
