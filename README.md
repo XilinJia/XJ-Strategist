@@ -1,6 +1,8 @@
 ## What it is 
  
-This is a machine learning system for constructing and validating financial trading strategies.  
+This is a powerful machine learning system for constructing and validating financial trading strategies.  
+
+Unlike most other machine learning practices that aim to obtain the "best" strategy only ending up losing in real trades, this system aims to construct strategies that remains valid for trades in the foreseeable future.
 
 ## Applications
 
@@ -13,8 +15,6 @@ One certainly can try it on individual stocks, but since the prices of individua
 To study on a financial instrument, one first needs to get the daily historical data in CSV format with the following columns: Open, Low, High, Close.  If it's a futures instrument, then the contracts need to be stitched to make a continuous contract (Stitch routines are included here, and are also published in another project called Stitcher under a different license).
 
 Once the historical data is handy, one needs to decide and cut out a section used for training the systems.  The system performs multiple rounds of studies and validations of thousands or even hundreds of thousands of possibilities (the user can preset subsets of interesting possibilities).  At the end, it constructs strategies that can be launched for trading.  
-
-Unlike most other machine learning practices that aim to obtain the "best" strategy only ending up losing in real trades, this system aims to construct strategies that remains valid for trades in the forseeable future.
 
 ## Demonstrations
 
