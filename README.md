@@ -1,3 +1,4 @@
+## What it is 
  
 This is a machine learning system for constructing and validating financial trading strategies.  
 
