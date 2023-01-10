@@ -1,6 +1,6 @@
 ## What it is 
  
-This is a powerful machine learning system for constructing and validating financial trading strategies.  
+This is a powerful machine learning system that's been developed, used and perfected in the past 10 years for constructing and validating financial trading strategies.  
 
 Unlike most other machine learning practices that aim to obtain the "best" strategy only ending up losing in real trades, this system aims to construct strategies that remains valid for trades in the foreseeable future.
 
@@ -8,7 +8,7 @@ Unlike most other machine learning practices that aim to obtain the "best" strat
 
 It handles trades with entries (long or short) on daily open or close, holding for no more than N (adjustable for plus/minus of a week) number of days, and exit on daily open or close.  It's been tested to work well on cryptos, ETF's, indices, commodities, and futures.  
 
-One certainly can try it on individual stocks, but since the prices of individual stocks can be influenced by many factors and tend to change much less consistently, the results from the learning can be less reliable.
+One certainly can try it on individual stocks, but my guess (just a guess) is that the results from the learning can be less reliable, since the prices of individual stocks can be influenced by many factors and tend to change much less consistently.
 
 ## The way it's used
 
