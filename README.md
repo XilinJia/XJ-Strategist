@@ -14,15 +14,17 @@ To study on a financial instrument, one first needs to get the daily historical 
 
 Once the historical data is handy, one needs to decide and cut out a section used for training the systems.  The system performs multiple rounds of studies and validations of thousands or even hundreds of thousands of possibilities (the user can preset subsets of interesting possibilities).  At the end, it constructs strategies that can be launched for trading.  
 
-## Demonstrations
+## Showcases
 
-The following demonstrations are based on trading with a capital of \$1,000,000.  Profits are not re-invested, and losses are not taken out.  No leverage or margins are used.  Certain commissions and slippages are specified in file `./Strategies/Contracts_CFG/Contracts_CFG.csv`.
+Showcases below include results with S&P 500, Bitcoin, FTSE 100, DAX, CAC 40, Nikkei 225, Palm Oil futures, and SPY.
+
+All cases are based on trading with a capital of \$1,000,000.  Profits are not re-invested, and losses are not taken out.  No leverage or margins are used.  Reasonable commissions and slippages are applied.
 
 Shorts trade in the way as in futures, i.e. one deposits a guarantee on entering a short position.  For example, to enter a short position of 100 units of an instrument at the price of \$90, one needs to pay (100 x \$90 + commission) up front, and to exit the short position at \$85, one gets back (100 x \$90 + 100 x (\$90 - \$85) - commission).
 
-In all the charts of the following demonstrations, the horizontal axis is the number of days (starting from day 1), and the vertical axis denotes either the price (on price charts) or the profit/loss in USD starting from \$0 at day 1.
+In all the charts of the following cases, the horizontal axis is the number of days (starting from day 1), and the vertical axis denotes either the price (on price charts) or the profit/loss in USD starting from \$0 at day 1.
 
-Showcases below include results with S&P 500, Bitcoin, FTSE 100, DAX, CAC 40, Nikkei 225, and Palm Oil futures.  There are 5 or 8 charts in each of the following demonstrations.  The first 4 are with the training data, i.e. the in-sample data.  The constructed strategies are purely based on the learning with the training data.  The 5th chart shows the trading performance of a longer period outside of the training data, i.e. the out-sample results, or walk-forward results.  This 5th chart demonstrates how effective the training and learning is.  If we call the strategies constructed shown on Charts 4-5 are "timid" versions, charts 6-8 on some cases are showing a "turbo" version of the strategies.  Charts 6 and 7 correspond to Charts 4 and 5.  Chart 8 shows the performance with profits reinvested and losses deducted, so as to better compare with a buy-and-hold strategy in the long term.
+There are 5 or 8 charts in each of the following cases.  The first 4 are with the training data, i.e. the in-sample data.  The constructed strategies are purely based on the learning with the training data.  The 5th chart shows the trading performance of a longer period outside of the training data, i.e. the out-sample results, or walk-forward results.  This 5th chart demonstrates how effective the training and learning is.  If we call the strategies constructed shown on Charts 4-5 are "timid" versions, charts 6-8 on some cases are showing a "turbo" version of the strategies.  Charts 6 and 7 correspond to Charts 4 and 5.  Chart 8 shows the performance with profits reinvested and losses deducted, so as to better compare with a buy-and-hold strategy in the long term.
 
 Note that here the purpose is not to show the best performing strategies the system can find, but to demonstrate trading performance sustainabilities of the constructed strategies in the forseeable future after the training period.  Optimal or customized strategies can be constructed by the system with further steps based on specific requirements.
 
