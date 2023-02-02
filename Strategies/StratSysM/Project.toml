@@ -1,0 +1,12 @@
+name = "StratSysM"
+uuid = "ef2d281a-a22a-4878-b9a0-f36320bbf55e"
+authors = ["djia "]
+version = "0.1.0"
+
+[deps]
+AtomsM = "2cd088a0-a7c9-4af1-9935-5c2b0730fd7b"
+ChiefOffice = "331c4930-ddf4-4a97-b0fe-47dc9c64182b"
+Contracts_CFG = "db0c82c3-ad6d-4ebb-8370-55cc098a9b84"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+TechnicalsM = "278d8c4f-ac3e-4b12-b90e-857e455d6677"
