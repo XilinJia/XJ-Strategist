@@ -38,10 +38,10 @@ Training data (2000-01-03 through 2009-02-23):
 Outcome:
 <img src="./Outputs/SP/Images/Outcome.png" />
 
-Performance of entire dataset (2000-01-03 through 2023-05-08. Note the training section at the beginning of the data set):
+Performance on entire dataset (2000-01-03 through 2023-05-08. Note the training section at the beginning of the data set):
 <img src="./Outputs/SP/Images/Performance.png" />
 
-Performance of entire dataset with profits reinvested and losses deducted:
+Performance on entire dataset with profits reinvested and losses deducted:
 <img src="./Outputs/SP/Images/Performance-r.png" />
 
 ### [SPY](https://finance.yahoo.com/quote/SPY?p=SPY&.tsrc=fin-srch)
@@ -65,7 +65,7 @@ Training data (2017-06-01 through 2018-09-30):
 Outcome:
 <img src="./Outputs/BTC/Images/Outcome.png" />
  
-Performance of entire dataset (2017-06-01 through 2023-05-08. Note the training section at the beginning of the data set):
+Performance on entire dataset (2017-06-01 through 2023-05-08. Note the training section at the beginning of the data set):
 <img src="./Outputs/BTC/Images/Performance.png" />
 
 ### [FTSE 100](https://finance.yahoo.com/quote/%5EFTSE?p=%5EFTSE)
@@ -76,7 +76,7 @@ Training data (1996-06-03 through 2003-07-31):
 Outcome:
 <img src="./Outputs/FTSE/Images/Outcome.png" />
  
-Performance of entire dataset (1996-06-03 through 2023-05-08. Note the training section at the beginning of the data set):
+Performance on entire dataset (1996-06-03 through 2023-05-08. Note the training section at the beginning of the data set):
 <img src="./Outputs/FTSE/Images/Performance.png" />
 
 ### [DAX](https://finance.yahoo.com/quote/%5EGDAXI?p=%5EGDAXI)
@@ -87,7 +87,7 @@ Training data (1996-01-02 through 2003-11-28):
 Outcome:
 <img src="./Outputs/DAX/Images/Outcome.png" />
  
-Performance of entire dataset (1996-01-02 through 2023-05-08. Note the training section at the beginning of the data set):
+Performance on entire dataset (1996-01-02 through 2023-05-08. Note the training section at the beginning of the data set):
 <img src="./Outputs/DAX/Images/Performance.png" />
 
 ### [CAC 40](https://finance.yahoo.com/quote/%5EFCHI?p=%5EFCHI)
@@ -98,7 +98,7 @@ Training data (1996-01-02 through 2002-12-31):
 Outcome:
 <img src="./Outputs/CAC/Images/Outcome.png" />
  
-Performance of entire dataset (1996-01-02 through 2023-05-08. Note the training section at the beginning of the data set):
+Performance on entire dataset (1996-01-02 through 2023-05-08. Note the training section at the beginning of the data set):
 <img src="./Outputs/CAC/Images/Performance.png" />
 
 ### [Nikkei 225](https://finance.yahoo.com/quote/%5EN225?p=%5EN225)
@@ -109,7 +109,7 @@ Training data (1998-07-01 through 2006-08-11):
 Outcome:
 <img src="./Outputs/N225/Images/Outcome.png" />
  
-Performance of entire dataset (1998-07-01 through 2023-05-08. Note the training section at the beginning of the data set):
+Performance on entire dataset (1998-07-01 through 2023-05-08. Note the training section at the beginning of the data set):
 <img src="./Outputs/N225/Images/Performance.png" />
 
 ### [Palm Oil futures](https://www.barchart.com/futures/quotes/YH*0/profile)
@@ -120,7 +120,7 @@ Training data (2008-11-03 through 2014-12-31):
 Outcome:
 <img src="./Outputs/P/Images/Outcome.png" />
  
-Performance of entire dataset (2007-12-29 through 2021-12-31. Note the training section near the beginning of the data set):
+Performance on entire dataset (2007-12-29 through 2021-12-31. Note the training section near the beginning of the data set):
 <img src="./Outputs/P/Images/Performance.png" />
 
 
