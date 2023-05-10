@@ -54,7 +54,7 @@ Training period is 2004-01-01 through 2020-12-31:
 (Refined turbo version) Outcome for the training period:
 <img src="./Outputs/SPY/Images/Outcome.png" />
 
-(Refined turbo version) Performance on entire dataset (2004-01-01 through 2023-01-31):
+(Refined turbo version) Performance on entire dataset (2004-01-01 through 2023-05-08):
 <img src="./Outputs/SPY/Images/Performance.png" />
 
 ### [Bitcoin](https://finance.yahoo.com/quote/BTC-USD?p=BTC-USD)
